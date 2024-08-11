@@ -45,5 +45,9 @@ Welcome to the **HeadCommerce AI Customer Service Chatbot** project! This AI-pow
 🔧 Customize: *Modify the dataset or adjust API integrations to tailor the chatbot's responses to fit your specific requirements.*
   
 
+# Snapshot
+![Image Description](https://cdn.discordapp.com/attachments/1263095737139597383/1271918847599050754/image.png?ex=66b9befc&is=66b86d7c&hm=112764078cc591065e9950424cfd68fd497d087650420ce8fefd5f4f89341117&)
+
+![Image Description](https://cdn.discordapp.com/attachments/1263095737139597383/1271900506117378109/image.png?ex=66b9ade7&is=66b85c67&hm=95c19f46fd3ae98480afe76cacf883328f6a9a60cba7aaa4c404f270f0e30839&)
 
 
