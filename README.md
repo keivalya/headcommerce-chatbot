@@ -29,7 +29,7 @@ Welcome to the **HeadCommerce AI Customer Service Chatbot** project! This AI-pow
    ```bash
    npm install
 3. **Set Up Environment Variables**:
-   Create a .env file in the root directory and add the following:
+   <br> Create a .env file in the root directory and add the following:
    ```bash
    NEXT_PUBLIC_GROQ_API_KEY=your_groq_api_key
    NEXT_PUBLIC_HUGGINGFACE_API_KEY=your_huggingface_api_key
@@ -39,7 +39,10 @@ Welcome to the **HeadCommerce AI Customer Service Chatbot** project! This AI-pow
 5. **Access the Application**:
    Open your browser and navigate to http://localhost:3000 to see the chatbot in action.
 
+### 2️⃣ Usage
 
+🗨️ Ask Questions: Type your query into the input field and hit "Submit". The chatbot will respond with accurate and relevant information tailored to your needs.
+🔧 Customize: Modify the dataset or adjust API integrations to tailor the chatbot's responses to fit your specific requirements.
   
 
 
