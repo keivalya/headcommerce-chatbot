@@ -19,20 +19,21 @@ Welcome to the **HeadCommerce AI Customer Service Chatbot** project! This AI-pow
 
 ## 🚀 Getting Started
 
+## Try at [HeadCommerse AI Chat Support](https://headcommerce.keivalya.com/)
+
 ### 1️⃣ Installation
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/headcommerce-ai-chatbot.git
-   cd headcommerce-ai-chatbot
+   git clone https://github.com/your-username/headcommerce-chatbot.git
+   cd headcommerce-chatbot
 2. **Install Dependencies**:
    ```bash
    npm install
 3. **Set Up Environment Variables**:
    <br> *Create a .env file in the root directory and add the following:*
    ```bash
-   NEXT_PUBLIC_GROQ_API_KEY=your_groq_api_key
-   NEXT_PUBLIC_HUGGINGFACE_API_KEY=your_huggingface_api_key
+   GROQ_API_KEY=your_groq_api_key
 4. **Start the Development Server**:
    ```bash
    npm run dev
