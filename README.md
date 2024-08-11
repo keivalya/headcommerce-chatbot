@@ -41,8 +41,8 @@ Welcome to the **HeadCommerce AI Customer Service Chatbot** project! This AI-pow
 
 ### 2️⃣ Usage
 
-🗨️ Ask Questions: Type your query into the input field and hit "Submit". The chatbot will respond with accurate and relevant information tailored to your needs.<br>
-🔧 Customize: Modify the dataset or adjust API integrations to tailor the chatbot's responses to fit your specific requirements.
+🗨️ Ask Questions: *Type your query into the input field and hit "Submit". The chatbot will respond with accurate and relevant information tailored to your needs.*<br>
+🔧 Customize: *Modify the dataset or adjust API integrations to tailor the chatbot's responses to fit your specific requirements.*
   
 
 
